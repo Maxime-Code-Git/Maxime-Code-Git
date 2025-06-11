@@ -55,5 +55,12 @@ I build reusable gameplay tech: input-adaptive UI, object pools, goal systems, a
 | 🎮 **Itch.io** | <https://maxime-itch.itch.io/> |
 | ✉️ **Email** | <maximeschneider@icloud.com> |
 | 🔗 **LinkedIn** | <https://www.linkedin.com/in/maxime-schneider-link/> |
-| 🕹️ **Play the Dino Game** *(coming soon)* | <https://maxime-code-git.github.io/dino> |
 ---
+
+## 🦖 Dino Runner
+
+[![Play Now](https://img.shields.io/badge/▶%20PLAY-Dino%20Runner-14c2ff?style=for-the-badge)](https://maxime-code-git.github.io/dino)
+
+<p align="center">
+  <img src="assets/dino-demo.gif" width="480" alt="Dino Runner demo GIF">
+</p>
