@@ -27,3 +27,33 @@ Puzzler at heart → Zelda dungeons, chess, logic riddles.
 Game-programming student (2nd year) @ HEAJ.
 I build reusable gameplay tech: input-adaptive UI, object pools,
 goal systems, and any code that scales cleanly.
+
+## 🎮 Highlighted Projects
+
+| Preview | Project | Tech&nbsp;&nbsp;·&nbsp;&nbsp;Focus |
+|:--:|:--|:--|
+| <img src="https://placehold.co/220x120?text=Lotus+GIF" alt="Ashes of the Lotus preview"/> | **Ashes of the Lotus** – Narrative point-and-click | Unity · C#<br/>Inventory, puzzle, modular UI |
+| <img src="https://placehold.co/220x120?text=Virus+GIF" alt="Virus Cleaner preview"/> | **Virus Cleaner** – Vertical shooter | SDL2 · C++<br/>Custom loop, object pooling, gamepad |
+| <img src="https://placehold.co/220x120?text=Pharao+GIF" alt="Pharao Rush preview"/> | **Pharao Rush** – Arena brawler | Unreal 5 Blueprint<br/>One-way doors, VFX/SFX |
+
+---
+
+## 🛠️ Core Stack
+
+| Languages | Game Tech | Tools |
+|:--|:--|:--|
+| **C++ · C#** | Unity 2022 · Unreal 5 · SDL2 | Git/GitHub · Blender (basic) · Reaper · Notion |
+
+---
+
+## 🌐 Links
+
+| | |
+|---|---|
+| 📂 **Portfolio** | <https://abrupt-sneeze-1b8.notion.site/maxime-schneider-portfolio-link> |
+| 🎮 **Itch.io** | <https://maxime-itch.itch.io/> |
+| 🕹️ **Play the Dino Game** *(soon)* | <https://maxime-code-git.github.io/dino> |
+| ✉️ **Email** | <mailto:maximeschneider@icloud.com> |
+| 🔗 **LinkedIn** | <https://www.linkedin.com/in/maxime-schneider-5a3837313> |
+
+---
