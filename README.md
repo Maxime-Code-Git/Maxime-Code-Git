@@ -59,7 +59,7 @@ I build reusable gameplay tech: input-adaptive UI, object pools, goal systems, a
 
 ## 🦖 Dino Runner
 
-[![Play](https://img.shields.io/badge/▶%20PLAY-Dino%20Runner-14c2ff?style=for-the-badge)](https://maxime-code-git.github.io/dino)\
+[![Play](https://img.shields.io/badge/▶%20PLAY-Dino%20Runner-14c2ff?style=for-the-badge)](https://maxime-code-git.github.io/dino)
 
 <p align="center">
   <img src="assets/dino-demo.gif" width="480" alt="Dino Runner demo">
