@@ -34,8 +34,8 @@ I build reusable gameplay tech: input-adaptive UI, object pools, goal systems, a
 | Preview | Project | Tech · Focus |
 |:--:|:--|:--|
 | <img src="assets/lotus.png" width="220" alt="Ashes of the Lotus preview"> | **Ashes of the Lotus** – Narrative point-and-click | Unity · C#<br>Inventory, puzzle, modular UI |
-| <img src="https://placehold.co/220x120?text=Virus+GIF" alt="Virus Cleaner preview"> | **Virus Cleaner** – Vertical shooter | SDL2 · C++<br>Custom loop, object pooling, gamepad |
-| <img src="https://placehold.co/220x120?text=Pharao+GIF" alt="Pharao Rush preview"> | **Pharao Rush** – Arena brawler | Unreal 5 Blueprint<br>One-way doors, VFX/SFX |
+| <img src="assets/virus.png" width="220" alt="Virus Cleaner preview"> | **Virus Cleaner** – Vertical shooter | SDL2 · C++<br>Custom loop, object pooling, gamepad |
+| <img src="assets/pharao.png" width="220" alt="Pharao Rush preview"> | **Pharao Rush** – Arena brawler | Unreal 5 Blueprint<br>One-way doors, VFX/SFX |
 
 ---
 
