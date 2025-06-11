@@ -43,7 +43,7 @@ I build reusable gameplay tech: input-adaptive UI, object pools, goal systems, a
 
 | Languages | Game&nbsp;Tech | Tools |
 |:--|:--|:--|
-| **C++ · C#** | Unity 2022 · Unreal 5 · SDL2 | Git/GitHub · Blender (basic) · Reaper · Notion |
+| **C++ · C#** | Unity 2022 · Unreal 5 · SDL2 | Git/GitHub · Reaper · Notion |
 
 ---
 
@@ -53,10 +53,9 @@ I build reusable gameplay tech: input-adaptive UI, object pools, goal systems, a
 |---|---|
 | 📂 **Portfolio** | <https://abrupt-sneeze-1b8.notion.site/maxime-schneider-portfolio-link> |
 | 🎮 **Itch.io** | <https://maxime-itch.itch.io/> |
+| ✉️ **Email** | <maximeschneider@icloud.com> |
+| 🔗 **LinkedIn** | <https://www.linkedin.com/in/maxime-schneider-link/> |
 | 🕹️ **Play the Dino Game** *(coming soon)* | <https://maxime-code-git.github.io/dino> |
-| ✉️ **Email** | <mailto:maximeschneider@icloud.com> |
-| 🔗 **LinkedIn** | <https://www.linkedin.com/in/maxime-schneider-5a3837313> |
-
 ---
 
 <sub>Dark-theme friendly — Markdown + inline HTML only.</sub>
