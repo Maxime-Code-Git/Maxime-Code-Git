@@ -57,5 +57,3 @@ I build reusable gameplay tech: input-adaptive UI, object pools, goal systems, a
 | 🔗 **LinkedIn** | <https://www.linkedin.com/in/maxime-schneider-link/> |
 | 🕹️ **Play the Dino Game** *(coming soon)* | <https://maxime-code-git.github.io/dino> |
 ---
-
-<sub>Dark-theme friendly — Markdown + inline HTML only.</sub>
